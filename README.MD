@@ -10,8 +10,10 @@ Asdougl's second edition of React Boilerplate, this time including a wide array 
 
 Directories now contain `_.md` files to help organise what each directory should contain, delete these files if you get the gist
 
+Serves on port 8080 by default
+
 ## Scripts
 
 `npm run dev` to run a development server  
-`npm run build` to build static files
+`npm run build` to build static files  
 `npm run test` to run jest test scripts

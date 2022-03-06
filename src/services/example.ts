@@ -1,5 +1,5 @@
 import { store } from '../redux/store'
-import { exampleUser, User } from '../types/User'
+import { User } from '../types/User'
 import { createResourcePath } from './api/core'
 import { createGetOne, createPost, createPut } from './api/request'
 

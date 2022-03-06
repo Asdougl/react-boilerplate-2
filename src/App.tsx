@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import { NavBar } from './features/NavBar'
-import { Home } from './views/Home'
+import { Home } from './views'
 
 function App() {
   return (
